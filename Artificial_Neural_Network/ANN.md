@@ -1,3 +1,5 @@
+@author: Valentin Larrieu
+
 In this problem, we are particularly interested in constructing a classifier that can separate a passable region from a forbidden region by learning its parameters from a given dataset.
 
 Both data sets consist of three columns: x1 [m], x2 [m] and y [-], where (x1; x2) are 2D

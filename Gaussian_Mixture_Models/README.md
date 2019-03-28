@@ -1,3 +1,5 @@
+@author: Valentin Larrieu
+
 # GMM
 
 

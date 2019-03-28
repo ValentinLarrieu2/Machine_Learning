@@ -1,3 +1,5 @@
+@author: Valentin Larrieu
+
 # Naive Bayes
 
 **Machine Learning Spam classification**

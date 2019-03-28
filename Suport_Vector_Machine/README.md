@@ -1,4 +1,4 @@
-
+@author: Valentin Larrieu
 
 # SVM on cancer dataset
 
